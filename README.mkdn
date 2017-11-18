@@ -1,16 +1,6 @@
-FondamentalOSBuildbot
---------
+FondamentalOS
 
-All supported devices are built weekly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses at [LineageOS Jenkins](https://jenkins.lineageos.org/)
-
-Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/)
-
-===========
-
-[<center><img src="https://raw.githubusercontent.com/FondamentalOS/fos-pictures/master/android_icons/Android_Nougat.png" height="100%" width="100%;"/></center>]
-
+<center><img src="https://raw.githubusercontent.com/FondamentalOS/fos-pictures/master/android_icons/Android_Nougat.png"/></center>
 
 Getting Started
 ---------------
