@@ -1,6 +1,5 @@
 FondamentalOS
-
-<center><img src="https://raw.githubusercontent.com/FondamentalOS/fos-pictures/master/android_icons/Android_Nougat.png"/></center>
+---------------
 
 Getting Started
 ---------------
